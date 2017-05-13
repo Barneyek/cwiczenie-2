@@ -1,0 +1,6 @@
+C:\Users\damian\Downloads\ZPO_Zadanie2\zadanie2\zadanie2\bin\Debug\zadanie2.exe.config
+C:\Users\damian\Downloads\ZPO_Zadanie2\zadanie2\zadanie2\bin\Debug\zadanie2.exe
+C:\Users\damian\Downloads\ZPO_Zadanie2\zadanie2\zadanie2\bin\Debug\zadanie2.pdb
+C:\Users\damian\Downloads\ZPO_Zadanie2\zadanie2\zadanie2\obj\Debug\zadanie2.exe
+C:\Users\damian\Downloads\ZPO_Zadanie2\zadanie2\zadanie2\obj\Debug\zadanie2.pdb
+C:\Users\damian\Downloads\ZPO_Zadanie2\zadanie2\zadanie2\obj\Debug\zadanie2.csprojResolveAssemblyReference.cache
